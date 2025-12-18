@@ -1,0 +1,4 @@
+`<` => write
+`<<` => append
+
+21. ln -s file link Create symbolic link link to file
