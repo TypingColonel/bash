@@ -1,5 +1,5 @@
-learn string manipulation
+learn string manipulation || COMPLETED PART
 
 complete until loops
 
-return values in function
+return values in function || COMPLETED

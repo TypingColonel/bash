@@ -2,3 +2,10 @@
 `<<` => append
 
 21. ln -s file link Create symbolic link link to file
+
+-n 
+-f
+-z
+
+string manipulation
+
