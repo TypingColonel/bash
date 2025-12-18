@@ -1,0 +1,5 @@
+learn string manipulation
+
+complete until loops
+
+return values in function
